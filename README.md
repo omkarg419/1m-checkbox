@@ -182,7 +182,6 @@ This effectively allows about 1 checkbox mutation per authenticated user every 5
 Add your assets here:
 
 - Demo video: `https://your-demo-link`
-- Live demo: `https://your-live-url`
 - Login screenshot: `docs/screenshots/login.png`
 - Dashboard screenshot: `docs/screenshots/dashboard.png`
 
