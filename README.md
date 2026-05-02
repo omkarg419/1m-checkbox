@@ -179,17 +179,14 @@ This effectively allows about 1 checkbox mutation per authenticated user every 5
 
 ## Screenshots / Demo Link
 
-
-
-- Demo video: `https://youtu.be/tUEYZQVSt6w`
-- Login screenshot: 
-  - [Login with OIDC](https://github.com/omkarg419/1m-checkbox/blob/main/Demo-image/Screenshot%20(292).png)
-  - [OIDC Login](https://github.com/omkarg419/1m-checkbox/blob/main/Demo-image/Screenshot%20(293).png)
-- Dashboard screenshot: 
-  - [Dashboard single user](https://github.com/omkarg419/1m-checkbox/blob/main/Demo-image/Screenshot%20(294).png)
-  - [Dashboard two user](https://github.com/omkarg419/1m-checkbox/blob/main/Demo-image/Screenshot%20(295).png)
-
-
+- Demo video:
+  - [Click here to see demo](https://youtu.be/tUEYZQVSt6w)
+- Login screenshot:
+  - [Login with OIDC](<https://github.com/omkarg419/1m-checkbox/blob/main/Demo-image/Screenshot%20(292).png>)
+  - [OIDC Login](<https://github.com/omkarg419/1m-checkbox/blob/main/Demo-image/Screenshot%20(293).png>)
+- Dashboard screenshot:
+  - [Dashboard single user](<https://github.com/omkarg419/1m-checkbox/blob/main/Demo-image/Screenshot%20(294).png>)
+  - [Dashboard two user](<https://github.com/omkarg419/1m-checkbox/blob/main/Demo-image/Screenshot%20(295).png>)
 
 ## API/Socket Quick Reference
 
