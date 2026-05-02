@@ -181,7 +181,7 @@ This effectively allows about 1 checkbox mutation per authenticated user every 5
 
 
 
-- Demo video: `https://your-demo-link`
+- Demo video: `https://youtu.be/tUEYZQVSt6w`
 - Login screenshot: 
   - [Login with OIDC](https://github.com/omkarg419/1m-checkbox/blob/main/Demo-image/Screenshot%20(292).png)
   - [OIDC Login](https://github.com/omkarg419/1m-checkbox/blob/main/Demo-image/Screenshot%20(293).png)
